@@ -14,6 +14,11 @@
 
 This repository contains an extensive collection of GDorks (Google Dork) payloads. Designed for security professionals, penetration testers, and developers focused on web application security.
 
+## 🔗 Links
+
+[FrameWork 1 - Ishanoshada](https://gdroks.ishanoshada.com/)
+[Framework 2 - Taksec](https://taksec.github.io/google-dorks-bug-bounty/)
+
 ## 🚀 Quick Start
 
 Browse the payload files or import them into your security tools. All payloads are organized for easy integration with automated scanners and manual testing.
