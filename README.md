@@ -16,8 +16,8 @@ This repository contains an extensive collection of GDorks (Google Dork) payload
 
 ## 🔗 Links
 
-[FrameWork 1 - Ishanoshada](https://gdroks.ishanoshada.com/)
-[Framework 2 - Taksec](https://taksec.github.io/google-dorks-bug-bounty/)
+- [FrameWork 1 - Ishanoshada](https://gdroks.ishanoshada.com/)
+- [Framework 2 - Taksec](https://taksec.github.io/google-dorks-bug-bounty/)
 
 ## 🚀 Quick Start
 
